@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "AsyncStorage Example",
+    "description": "Try out AsyncStorage",
+    "privacy": "public",
+    "slug": "async-storage-example",
+    "version": "1.0.0",
+    "sdkVersion": "18.0.0"
+  }
+}
